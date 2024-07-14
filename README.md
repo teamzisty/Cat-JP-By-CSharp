@@ -13,7 +13,7 @@ Debug
 ┣Cat-JP.exe.config
 ┣Cat-JP.pdb
 ```
-そのうちの"Cat-JP.exe"を任意の場所にコピーするし、使用することをお勧めします。
+そのうちの"Cat-JP.exe"を任意の場所にコピーし、使用することをお勧めします。
 
 なお、"Cat-JP.exe.config","Cat-JP.pdb"は消去しても差し支えありません。
 ## 使い方
